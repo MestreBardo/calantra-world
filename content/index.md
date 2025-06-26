@@ -1,7 +1,19 @@
 ---
 title: Welcome to Quartz
 ---
+> [!infobox|wikipedia]
+> # Heading
+> ![[Image.png]]
+> ###### Heading 6
+> | Table Header |  Table Header |
+> | ---- | --- |
+> | Test | Testing |
+> | Test | Testing |
+> 
+> # Heading 1
+> - Bullet list
+> 	- Testing
+> 	- Testing
+> - Testing
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-teste
+Vai tomar no cu
