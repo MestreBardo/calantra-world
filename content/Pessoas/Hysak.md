@@ -1,14 +1,11 @@
 ---
-title: Nome do Personagem
+title: Hysak
 aliases:
   - Apelido
   - Título
   - Nome Alternativo
 tags:
   - personagens
-  - raça/humano
-  - facção/justiçarios
-  - status/vivo
 cssclasses:
   - character-page
 draft: "false"
