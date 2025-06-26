@@ -20,7 +20,7 @@ draft: "false"
 
 > **Resumo**: Breve descrição do personagem em 1-2 frases que capture sua essência
 
-![[Hysak.webp|300]]
+![[Hysak 1.webp]]
 ## 📋 Informações Básicas
 
 |Campo|Informação|
