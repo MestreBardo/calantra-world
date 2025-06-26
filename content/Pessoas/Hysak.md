@@ -13,24 +13,25 @@ cssclasses:
   - character-page
 draft: "false"
 ---
----
 
+---
 
 # Hysak
 
 > **Resumo**: Breve descrição do personagem em 1-2 frases que capture sua essência
 
-![[Hysak 1.webp]]
+![[Hysak 1.webp|300]]
+
 ## 📋 Informações Básicas
 
-|Campo|Informação|
-|---|---|
-|**Nome Completo**|Nome Completo do Personagem|
-|**Títulos/Apelidos**|Lista de títulos e apelidos conhecidos|
-|**Raça/Espécie**|[[Raça]]|
-|**Gênero**|Masculino/Feminino/Outro|
-|**Idade**|XX anos (aparente/real)|
-|**Status**|🟢 Vivo / 🔴 Morto / ❓ Desconhecido|
+| Campo                | Informação                             |
+| -------------------- | -------------------------------------- |
+| **Nome Completo**    | Nome Completo do Personagem            |
+| **Títulos/Apelidos** | Lista de títulos e apelidos conhecidos |
+| **Raça/Espécie**     | [[Raça]]                               |
+| **Gênero**           | Masculino/Feminino/Outro               |
+| **Idade**            | XX anos (aparente/real)                |
+| **Status**           | 🟢 Vivo / 🔴 Morto / ❓ Desconhecido   |
 
 ## 🗓️ Cronologia
 
@@ -43,7 +44,7 @@ draft: "false"
 ### Morte
 
 > [!danger] Informações sobre a Morte
-> 
+>
 > - **Data**: DD/MM/AAAA
 > - **Local**: [[Local da Morte]]
 > - **Causa**: Como morreu
@@ -54,14 +55,14 @@ draft: "false"
 ### Organizações Atuais
 
 - **[[Nome da Organização]]** - _Posição/Cargo_
-    - Desde: Data de entrada
-    - Responsabilidades: Lista de funções
+  - Desde: Data de entrada
+  - Responsabilidades: Lista de funções
 
 ### Organizações Anteriores
 
 - **[[Organização Anterior]]** - _Ex-Posição_
-    - Período: Data início - Data fim
-    - Motivo da saída: Razão
+  - Período: Data início - Data fim
+  - Motivo da saída: Razão
 
 ## ⚔️ Feitos e Conquistas
 
@@ -156,11 +157,11 @@ O que está acontecendo atualmente na vida do personagem, desafios presentes, ob
 ## 🗣️ Citações Memoráveis
 
 > _"Frase icônica do personagem que define sua personalidade e visão de mundo"_
-> 
+>
 > — Contexto onde foi dita e significado
 
 > _"Outra frase importante que demonstra seus valores ou motivações"_
-> 
+>
 > — Situação específica e impacto da declaração
 
 ## 📖 Notas e Observações
