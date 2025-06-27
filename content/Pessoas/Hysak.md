@@ -1,224 +1,243 @@
 ---
-title: Hysak
+title: Nome do Personagem
 aliases:
   - Apelido
   - Título
   - Nome Alternativo
+  - O Líder
+  - Sentinela de Ferro
 tags:
   - personagens
+  - personagem
+  - facção/justiçarios
+  - status/vivo
+  - modelo
 cssclasses:
   - character-page
 draft: "false"
+created: 2025-06-26
 ---
-
 ---
-
-# Hysak
-
-> **Resumo**: Breve descrição do personagem em 1-2 frases que capture sua essência
+> [!abstract] Resumo
+> Lider e um dos fundadores dos [[Justiçarios]], paladino da justiça seguidor de [[Kermis]]
 
 ![[Hysak 1.webp|300]]
 
 ## 📋 Informações Básicas
 
-| Campo                | Informação                             |
-| -------------------- | -------------------------------------- |
-| **Nome Completo**    | Nome Completo do Personagem            |
-| **Títulos/Apelidos** | Lista de títulos e apelidos conhecidos |
-| **Raça/Espécie**     | [[Raça]]                               |
-| **Gênero**           | Masculino/Feminino/Outro               |
-| **Idade**            | XX anos (aparente/real)                |
-| **Status**           | 🟢 Vivo / 🔴 Morto / ❓ Desconhecido   |
+| Campo                | Informação                                  |
+| -------------------- | ------------------------------------------- |
+| **Nome Completo**    | Hysak                                       |
+| **Títulos/Apelidos** | Lider dos [[Justiçarios]]/Arauto da justiça |
+| **Raça/Espécie**     | #humano                                     |
+| **Gênero**           | Masculino                                   |
+| **Idade**            | XX anos (aparente/real)                     |
+| **Status**           | 🟢 Vivo                                     |
+| **Ocupação**         | Lider dos [[Justiçarios]]                   |
+| **Local Atual**      | [[Fortaleza dos Justiçarios]]               |
 
-## 🗓️ Cronologia
+## 🗓️ História e Cronologia
 
-### Nascimento
+> [!note]- **Nascimento e Infância**
+> - **Data**: DD/MM/AAAA ou Era/Período
+> - **Local**: [[Local de Nascimento]]
+> - **Família**: Descrição da família de origem
+> - **Eventos Formativos**: Experiências importantes da infância
 
-- **Data**: DD/MM/AAAA ou Era/Período
-- **Local**: [[Local de Nascimento]]
-- **Circunstâncias**: Detalhes relevantes sobre o nascimento
+> [!note]- **Juventude**
+> - **Educação**: Onde e como foi educado
+> - **Treinamento**: Habilidades desenvolvidas
+> - **Primeiro Contato**: Com organizações ou grupos importantes
+> - **Eventos Marcantes**: Momentos que definiram o caráter
 
-### Morte
+> [!note]- **Vida Adulta**
+> - **Ascensão**: Como chegou à posição atual
+> - **Conquistas Principais**: Realizações mais importantes
+> - **Relacionamentos**: Vínculos significativos formados
+> - **Mudanças**: Transformações ao longo da vida
 
-> [!danger] Informações sobre a Morte
->
-> - **Data**: DD/MM/AAAA
-> - **Local**: [[Local da Morte]]
-> - **Causa**: Como morreu
-> - **Circunstâncias**: Contexto da morte
+> [!note]- **Situação Atual**
+> - **Circunstâncias**: Status no momento da narrativa
+> - **Objetivos**: O que busca alcançar
+> - **Desafios**: Problemas que enfrenta
+> - **Projetos**: Empreendimentos em andamento
 
-## 🏛️ Afiliações e Grupos
+## 🏛️ Afiliações
 
-### Organizações Atuais
-
-- **[[Nome da Organização]]** - _Posição/Cargo_
-  - Desde: Data de entrada
-  - Responsabilidades: Lista de funções
-
-### Organizações Anteriores
-
-- **[[Organização Anterior]]** - _Ex-Posição_
-  - Período: Data início - Data fim
-  - Motivo da saída: Razão
+> [!note]- **Organizações Atuais**
+> 
+> | Organização | Posição | Desde | Responsabilidades |
+> |-------------|---------|-------|-------------------|
+> | [[Justiçarios]] | Líder | AAAA | Liderança |
 
 ## ⚔️ Feitos e Conquistas
 
-### Feitos Notáveis
+> [!success]- **Grandes Realizações**
+> 
+> | Ano | Feito | Impacto | Testemunhas |
+> |-----|-------|---------|-------------|
+> | AAAA | Libertou gnomos escravos de Pitderim | Consequências principais | [[Caspar]] |
+> | AAAA | Fundou os [[Justiçarios]] | Criação de uma facção voltada a proteger Calantra e as pessoas que nela vivem tentando trazer estabilidade e justiça | [[Caspar]] |
 
-> [!success] Grande Conquista Descrição detalhada de um feito importante
-
-**Principais Realizações:**
-
-- **Nome do Feito**: Breve descrição e contexto
-- **Nome do Feito 2**: Breve descrição e impacto
-- **Nome do Feito 3**: Breve descrição e consequências
-
-### Batalhas e Conflitos
-
-- **[[Nome da Batalha]]** (AAAA) - Papel desempenhado e resultado
-- **[[Conflito Importante]]** (AAAA) - Participação e consequências
-- **[[Guerra Específica]]** (AAAA-AAAA) - Envolvimento e posição
+> [!warning]- **Batalhas e Conflitos**
+> 
+> | Conflito | Ano | Papel | Lado | Resultado |
+> |----------|-----|-------|------|-----------|
+> | [[Nome da Batalha]] | AAAA | Comandante | [[Facção]] | Vitória |
+> | [[Guerra Prolongada]] | AAAA-AAAA | Estrategista | [[Facção]] | Vitória Parcial |
 
 ## 👥 Relacionamentos
 
-### Família
+> [!tip]- **Família**
+> 
+> | Parentesco | Nome | Relacionamento | Status |
+> |------------|------|----------------|--------|
+> | Pai | [[Nome do Pai]] | Descrição breve | 🟢 Vivo |
+> | Mãe | [[Nome da Mãe]] | Descrição breve | 🔴 Morta |
+> | Irmão/ã | [[Irmão 1]] | Natureza do vínculo | 🟢 Vivo |
+> | Cônjuge | [[Nome do Cônjuge]] | História breve | 🟢 Vivo |
+> | Filho/a | [[Filho 1]] | Relação paternal | 🟢 Vivo |
 
-- **Pai**: [[Nome do Pai]] - Breve descrição da relação
-- **Mãe**: [[Nome da Mãe]] - Breve descrição da relação
-- **Irmãos**: [[Irmão 1]], [[Irmã 2]] - Dinâmica familiar
-- **Cônjuge**: [[Nome do Cônjuge]] - História do relacionamento
-- **Filhos**: [[Filho 1]], [[Filha 2]] - Relação paternal/maternal
+> [!tip]- **Amigos e Aliados**
+> 
+> | Nome | Tipo | Confiança | Desde | Descrição |
+> |------|------|-----------|-------|-----------|
+> | [[Caspar]] | Melhor Amigo | ⭐⭐⭐⭐⭐ | AAAA | Caspar e Hysak se conheceram quando formaram um grupo para buscar o [[Códex Ignis]] |
+> | [[Aliado Estratégico]] | Político | ⭐⭐⭐⭐⬜ | AAAA | Natureza da aliança |
+> | [[Companheiro]] | Profissional | ⭐⭐⭐⬜⬜ | AAAA | - |
 
-### Aliados e Amigos
+> [!warning]- **Inimigos e Rivais**
+> 
+> | Nome | Tipo | Intensidade | Origem | Status Atual |
+> |------|------|-------------|--------|--------------|
+> | [[Aldanesh]] | Inimigo | ⭐⭐⭐⭐⭐ | Como começou | Ativo |
+> | [[Calantinas]] | Inimigo | ⭐⭐⭐⭐⭐ | Área de rivalidade | Ativo |
 
-- **[[Nome do Aliado]]** - Natureza da aliança e história
-- **[[Amigo Próximo]]** - Como se conheceram e laços
-- **[[Mentor]]** - Influência e ensinamentos recebidos
+> [!tip]- **Mentores e Discípulos**
+> 
+> | Nome | Tipo | Área | Status |
+> |------|------|------|--------|
+> | [[Alistair]] | Mentor | Antigo portador da [[Julgadora]]  | Concluído |
+> | [[Aveerika]] | Discípulo | Justiçaria discípula de Hysak | Em progresso |
 
-### Inimigos e Rivais
+## 🎯 Personalidade
 
-- **[[Nome do Inimigo]]** - Motivo da inimizade e conflitos
-- **[[Rival]]** - História da rivalidade e competição
-- **[[Antagonista]]** - Natureza da oposição
+> [!abstract]- **Traços Principais**
+> 
+> | Virtudes | Defeitos |
+> |----------|----------|
+> | Coragem | Orgulho |
+> | Lealdade | Impulsividade |
+> | Inteligência | Desconfiança |
+> | Compaixão | Teimosia |
+> | Determinação | Perfeccionismo |
 
-## 🎯 Personalidade e Características
+> [!abstract]- **Psicologia**
+> - **Maior Medo**: Descrição detalhada
+> - **Motivação Principal**: O que mais deseja alcançar
+> - **Valores Centrais**: Princípios inquebrantáveis
+> - **Trauma Principal**: Evento que deixou marca profunda
+> - **Necessidade**: O que precisa para se sentir realizado
 
-### Traços de Personalidade
+## 🛡️ Habilidades e Capacidades
 
-- **Virtudes**: Corajoso, Leal, Inteligente, Determinado
-- **Defeitos**: Teimoso, Impulsivo, Orgulhoso, Desconfiado
-- **Medos**: Lista de medos, fobias ou fraquezas emocionais
-- **Motivações**: O que move o personagem e seus objetivos
+> [!note]- **Combate**
+> 
+> | Habilidade | Nível | Especialização |
+> |------------|-------|----------------|
+> | Corpo a Corpo | ⭐⭐⭐⭐⭐ | Espadas longas, táticas defensivas |
+> | Combate à Distância | ⭐⭐⭐⭐⬜ | Arco longo, 200m efetivo |
+> | Táticas e Estratégia | ⭐⭐⭐⭐⭐ | Cercos, batalhas campais |
 
-### Aparência Física
+> [!note]- **Habilidades Sociais**
+> 
+> | Habilidade | Nível | Estilo/Especialização |
+> |------------|-------|-----------------------|
+> | Liderança | ⭐⭐⭐⭐⭐ | Carismático, inspirador |
+> | Diplomacia | ⭐⭐⭐⭐⬜ | Negociações formais |
+> | Persuasão | ⭐⭐⭐⬜⬜ | Apelos à honra e justiça |
 
-- **Altura**: X,XX m
-- **Peso**: XX kg
-- **Cor dos Olhos**: Cor específica
-- **Cor do Cabelo**: Cor e estilo
-- **Marcas Distintivas**: Cicatrizes, tatuagens, características únicas
+> [!note]- **Conhecimentos**
+> 
+> | Área | Nível | Especialização |
+> |------|-------|----------------|
+> | História | ⭐⭐⭐⭐⬜ | Guerras antigas, heróis |
+> | Política | ⭐⭐⭐⭐⭐ | Sistemas militares |
+> | Geografia | ⭐⭐⭐⬜⬜ | Rotas comerciais |
+> | Sobrevivência | ⭐⭐⭐⭐⬜ | Montanhas, florestas |
 
-## 🛡️ Habilidades e Poderes
+> [!magic]- **Poderes Especiais** (Se aplicável)
+> 
+> | Poder | Tipo | Alcance | Limitações |
+> |-------|------|---------|------------|
+> | [[Nome do Poder]] | Mágico | 50m | Consome energia vital |
+> | [[Poder Secundário]] | Psíquico | Contato visual | Apenas 3x por dia |
 
-### Habilidades Mundanas
+## 🗣️ Citações e Filosofia
 
-- **Combate**: Nível de habilidade e especialização em armas
-- **Diplomacia**: Carisma e habilidades sociais
-- **Conhecimento**: Áreas de especialização acadêmica ou prática
-- **Sobrevivência**: Habilidades práticas e experiência
+> [!quote]- **Frases Características**
+> 
+> **Filosofia de Vida**: _"A verdadeira força não vem da espada, mas da convicção de que sua causa é justa."_
+> 
+> **Em Liderança**: _"Um líder que não morre por seus homens não merece que morram por ele."_
+> 
+> **Sobre Adversidade**: _"Cicatrizes são provas de que fomos fortes o suficiente para sobreviver."_
 
-### Poderes Especiais
+> [!abstract]- **Valores e Princípios**
+> - **Código Moral**: Princípio fundamental que nunca quebra
+> - **Visão de Mundo**: Como vê a natureza humana
+> - **Sobre Justiça**: Perspectiva sobre justiça vs. vingança
+> - **Autoridade**: Atitude em relação à hierarquia
 
-> [!magic] Poder Único Descrição detalhada de um poder especial, suas capacidades e origem
+## 📚 Informações Adicionais
 
-**Lista de Poderes:**
+> [!note]- **Detalhes Pessoais**
+> 
+> | Aspecto | Detalhes |
+> |---------|----------|
+> | **Hábitos** | Ritual matinal específico |
+> | **Gostos** | Música clássica, vinhos antigos |
+> | **Manias** | Sempre limpa armas antes de dormir |
+> | **Superstições** | Nunca luta sem amuleto da sorte |
+> | **Passatempos** | Xadrez, leitura de tratados militares |
 
-- **Nome do Poder**: Descrição completa e capacidades
-- **Limitações**: O que limita esse poder e suas fraquezas
-- **Origem**: Como adquiriu ou desenvolveu esses poderes
+> [!bug]- **Segredos**
+> - **Informação Oculta**: Que poucos conhecem
+> - **Evento Secreto**: Do passado que prefere esconder
+> - **Habilidade Escondida**: Que não admite possuir
+> - **Objetivo Secreto**: Que persegue discretamente
 
-## 📚 História e Background
+## 🔗 Conexões no Universo
 
-### Infância e Juventude
+> [!example]- **Locais Importantes**
+> 
+> | Local | Significado | Status Atual |
+> |-------|-------------|--------------|
+> | [[Local de Nascimento]] | Importância emocional | Destruído |
+> | [[Base Atual]] | Centro de operações | Ativo |
+> | [[Local Especial]] | Memórias importantes | Protegido |
 
-Narrativa detalhada sobre os primeiros anos de vida do personagem, eventos formativos, família de origem e experiências que moldaram sua personalidade inicial.
+> [!example]- **Eventos Históricos**
+> 
+> | Evento | Data | Participação | Consequências |
+> |--------|------|--------------|---------------|
+> | [[Evento Decisivo]] | AAAA | Protagonista | Mudou completamente |
+> | [[Grande Batalha]] | AAAA | Comandante | Ganhou renome |
 
-### Vida Adulta
-
-Principais eventos que definiram o personagem como adulto, decisões importantes, relacionamentos significativos e mudanças de rumo na vida.
-
-### Eventos Recentes
-
-O que está acontecendo atualmente na vida do personagem, desafios presentes, objetivos atuais e situação no momento presente da narrativa.
-
-## 🗣️ Citações Memoráveis
-
-> _"Frase icônica do personagem que define sua personalidade e visão de mundo"_
->
-> — Contexto onde foi dita e significado
-
-> _"Outra frase importante que demonstra seus valores ou motivações"_
->
-> — Situação específica e impacto da declaração
-
-## 📖 Notas e Observações
-
-### Curiosidades
-
-- Fato interessante ou peculiaridade sobre o personagem
-- Hábito único ou característica marcante
-- Detalhe que poucos conhecem sobre sua história
-
-### Inspirações e Referências
-
-- Inspirações do mundo real para o personagem
-- Referências culturais ou históricas
-- Arquétipos ou figuras que influenciaram a criação
-
-### Notas de Desenvolvimento
-
-Espaço para anotações pessoais sobre o desenvolvimento do personagem, mudanças planejadas, arcos narrativos futuros.
+> [!example]- **Objetos Importantes**
+> 
+> | Item | Tipo | Origem | Propriedades |
+> |------|------|--------|--------------|
+> | [[Julgadora]] | Espada | Espada da deusa da justiça [[Kermis]] | Nunca quebra |
 
 ---
 
-## 🔗 Páginas Relacionadas
+## 📋 Referências Rápidas
 
-### Locais Importantes
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-- **[[Local de Nascimento]]** - Cidade ou região onde nasceu
-- **[[Base de Operações]]** - Onde vive ou trabalha atualmente
-- **[[Local Significativo]]** - Lugar com importância emocional ou histórica
-
-### Organizações
-
-- **[[Organização Principal]]** - Grupo ao qual pertence
-- **[[Facção Aliada]]** - Grupos com os quais mantém boas relações
-- **[[Inimigos Organizacionais]]** - Facções ou grupos hostis
-
-### Eventos Relacionados
-
-- **[[Evento Histórico]]** - Acontecimento que afetou o personagem
-- **[[Batalha Importante]]** - Conflito no qual participou
-- **[[Marco Pessoal]]** - Evento definidor em sua vida
-
-### Outros Personagens
-
-- **[[Mentor]]** - Figura que o guiou ou ensinou
-- **[[Discípulo]]** - Pessoa que treina ou orienta
-- **[[Parceiro]]** - Companheiro frequente em aventuras
+**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
 
 ---
 
-**Tags**: #personagens #raça/humano #facção/justiçarios #status/vivo
-
-_Última atualização: [Data Manual]_
-
----
-
-## 🎨 Galeria de Imagens
-
-![Retrato Oficial](https://claude.ai/chat/caminho/retrato-oficial.webp) _Descrição: Retrato oficial do personagem_
-
-![Em Combate](https://claude.ai/chat/caminho/combate.webp) _Descrição: Personagem em situação de batalha_
-
-![Momentos Casuais](https://claude.ai/chat/caminho/casual.webp) _Descrição: Em momentos mais descontraídos_
+*Criado: 2025-06-26 | Atualizado: 2025-06-26*
