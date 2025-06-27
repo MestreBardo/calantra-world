@@ -52,13 +52,22 @@ for root, _, files in os.walk(vault_path):
 
 # Gerar Indice
 with open(index_path, "w", encoding="utf-8") as index:
-    index.write("# 🌐 Indice de Locais\n\n")
-    index.write("> [!abstract] Lista atualizada automaticamente com locais oficiais e finalizados.\n\n")
+    index.write("---\n\n")
+    index.write("title: Índice de Locais\n")
+    index.write("tags:\n")
+    index.write("  - mundo\n")
+    index.write("  - índice\n")
+    index.write("  - geografia\n")
+    index.write("created: 2025-06-27\n")
+    index.write("---\n\n")
+    index.write("> [!abstract] Este documento organiza todos os lugares de calantra em ordem hierárquica: de ruínas e vilas até continentes e o plano mundial. Cada localidade pode ter uma ou mais subentidades ligadas a ela.\n\n")
+    index.write("---\n\n")
 
     for tipo, titulo in categorias.items():
         index.write(f"> [!note]- {titulo}\n>\n")
         for nome in sorted(locais[tipo]):
             index.write(f"> - [[{nome}]]\n")
         index.write("\n")
+        index.write("---\n\n")
 
     index.write("*Gerado automaticamente.*\n")
