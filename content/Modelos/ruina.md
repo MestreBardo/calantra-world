@@ -7,7 +7,7 @@ tags:
 created:
   "{ date:YYYY-MM-DD }":
 ---
-# {{title}}
+# Nome da Fortaleza
 
 > [!abstract] **Resumo**
 > Descrição breve da ruína: quem a construiu, o que ela foi, e seu estado atual.
@@ -18,7 +18,7 @@ created:
 
 > [!note]- 📋 **Informações Comuns**
 >
-> ![[Lugar Base]]
+> ![[lugar base]]
 
 ---
 
