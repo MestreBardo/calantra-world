@@ -80,5 +80,5 @@ created:
 
 ---
 
-*Criado: {{date:YYYY-MM-DD}}*  
-*Última atualização: {{date:YYYY-MM-DD}}*
+*Criado: 2025-06-27*  
+*Última atualização: 2025-06-27*

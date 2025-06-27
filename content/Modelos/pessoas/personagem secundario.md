@@ -4,6 +4,7 @@ aliases:
   - Sentinela de Ferro
 tags:
   - Personagens
+  - modelo
 created: 2025-06-26
 cssclasses:
   - minor-character-page

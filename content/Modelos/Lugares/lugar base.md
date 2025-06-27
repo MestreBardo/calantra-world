@@ -4,7 +4,8 @@ tags:
   - lugar
   - modelo
 created:
-  "{ date:YYYY-MM-DD }":
+  "{ date:YYYY-MM-DD }": 
+draft: "true"
 ---
 ---
 > [!note]- 📋 **Informações Básicas**

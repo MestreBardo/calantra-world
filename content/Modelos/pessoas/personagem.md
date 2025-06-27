@@ -7,6 +7,7 @@ tags:
   - personagem
   - facção/justiçarios
   - status/vivo
+  - modelo
 created: 2025-06-26
 cssclasses:
   - character-page
