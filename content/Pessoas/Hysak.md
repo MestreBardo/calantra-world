@@ -1,5 +1,5 @@
 ---
-title: Nome do Personagem
+title: Hysak
 aliases:
   - Apelido
   - Título
