@@ -19,6 +19,7 @@ created: 2025-06-27
 
 > [!note]- 🏰 Fortalezas
 >
+> - [[Fortaleza dos Justiçarios]]
 
 ---
 

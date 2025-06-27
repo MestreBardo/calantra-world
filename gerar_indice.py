@@ -1,8 +1,8 @@
 import os
 import re
 
-vault_path = "./content"  # ← Substitua por seu caminho local
-index_path = os.path.join(vault_path, "Indice de Locais.md")
+vault_path = "./content/Lugares"  # ← Substitua por seu caminho local
+index_path = os.path.join("./content", "Indice de Locais.md")
 
 categorias = {
     "ruina": "🧱 Ruínas",
@@ -28,17 +28,22 @@ for root, _, files in os.walk(vault_path):
             # Extrair frontmatter YAML se presente
             match = re.search(r'^---\s*\n(.*?)\n---', content, re.DOTALL)
             frontmatter = match.group(1) if match else ""
-
+            inTagSection = False
             tags = []
             draft = False
 
             # Verifica se há tags e draft no frontmatter
             for line in frontmatter.splitlines():
                 if line.strip().startswith("tags:"):
-                    tags = re.findall(r"[-\s]*([^\[\],]+)", line)
-                    tags = [t.strip() for t in tags if t.strip()]
+                    inTagSection = True
+                    continue
                 elif line.strip().startswith("draft:"):
                     draft = "true" in line.lower()
+                    inTagSection = False
+                elif inTagSection:
+                    tag = [t.strip() for t in re.findall(r"[-\s]*([^\[\],]+)", line) if t.strip()]
+                    tags.extend(tag)
+                    print(f"Tags encontradas: {tags}")
 
             # Ignorar se for draft ou modelo
             if draft or any("modelo" in t.lower() for t in tags):

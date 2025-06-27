@@ -3,7 +3,6 @@ title: Fortaleza dos Justiçarios
 tags:
   - lugar
   - tipo/fortaleza
-  - modelo
   - status/ativo
 created: 2025-06-27
 draft: "false"
