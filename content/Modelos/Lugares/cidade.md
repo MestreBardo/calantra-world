@@ -7,9 +7,7 @@ tags:
   - modelo
 created: 2025-06-27
 ---
-
-# Nome da Cidade
-
+---
 > [!abstract] **Resumo**
 > Descrição breve da cidade: localização, importância no mundo, e função dominante (comercial, militar, capital, portuária etc).
 

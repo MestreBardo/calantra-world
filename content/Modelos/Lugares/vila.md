@@ -7,9 +7,7 @@ tags:
   - modelo
 created: 2025-06-27
 ---
-
-# Nome da Vila
-
+---
 > [!abstract] **Resumo**
 > Descrição breve da vila: origem, localização e o que a torna especial.
 

@@ -7,9 +7,7 @@ tags:
   - modelo
 created: 2025-06-27
 ---
-
-# Nome da Região
-
+---
 > [!abstract] **Resumo**
 > Breve descrição da região: posição geográfica, função estratégica, importância histórica ou cultural no mundo.
 

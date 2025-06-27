@@ -11,9 +11,6 @@ cssclasses:
 draft: "false"
 ---
 ---
-
-# Nome do Personagem
-
 > [!abstract] Resumo Breve descrição em uma frase do personagem e sua relevância.
 
 ![[imagem-personagem.webp|200]] <!-- Opcional - remover se não houver imagem -->

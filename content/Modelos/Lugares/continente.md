@@ -7,9 +7,7 @@ tags:
   - modelo
 created: 2025-06-27
 ---
-
-# Nome do Continente
-
+---
 > [!abstract] **Resumo**
 > Breve descrição do continente: sua localização no mundo, características geográficas dominantes e importância histórica ou mágica.
 

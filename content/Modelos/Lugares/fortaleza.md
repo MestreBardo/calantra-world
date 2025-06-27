@@ -9,9 +9,6 @@ created:
 draft: "true"
 ---
 ---
-
-# Nome da Fortaleza
-
 > [!abstract] **Resumo**
 > Descrição breve da fortaleza: localização estratégica, função histórica e papel atual no mundo.
 

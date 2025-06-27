@@ -13,9 +13,7 @@ cssclasses:
   - character-page
 draft: "false"
 ---
-
-# Nome do Personagem
-
+---
 > [!abstract] Resumo
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.
 

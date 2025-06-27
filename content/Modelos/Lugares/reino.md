@@ -7,9 +7,7 @@ tags:
   - modelo
 created: 2025-06-27
 ---
-
-# Nome do Reino
-
+---
 > [!abstract] **Resumo**
 > Breve descrição do reino: origem, identidade nacional, governo atual e importância geopolítica no mundo.
 

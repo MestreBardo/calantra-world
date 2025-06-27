@@ -1,7 +1,7 @@
 import os
 import re
 
-vault_path = "/content"  # ← Substitua por seu caminho local
+vault_path = "./content"  # ← Substitua por seu caminho local
 index_path = os.path.join(vault_path, "Indice de Locais.md")
 
 categorias = {

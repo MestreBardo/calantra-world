@@ -8,8 +8,7 @@ tags:
 created:
   "{ date:YYYY-MM-DD }":
 ---
-# Nome da Ruína
-
+---
 > [!abstract] **Resumo**
 > Descrição breve da ruína: quem a construiu, o que ela foi, e seu estado atual.
 
