@@ -1,5 +1,5 @@
 ---
-title: Modelo de Personagem secundario
+title: Nome do Personagem secundario
 aliases:
   - Sentinela de Ferro
 tags:

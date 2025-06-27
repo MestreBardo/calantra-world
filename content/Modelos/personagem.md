@@ -1,13 +1,12 @@
 ---
-title: Modelo de Personagem 2
+title: Nome do Personagem
 aliases:
   - O Líder
   - Sentinela de Ferro
 tags:
-  - Personagens
-  - Humano
-  - Justiçarios
-  - Vivo
+  - personagem
+  - facção/justiçarios
+  - status/vivo
 created: 2025-06-26
 cssclasses:
   - character-page
