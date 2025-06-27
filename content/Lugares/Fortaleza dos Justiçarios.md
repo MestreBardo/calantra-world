@@ -1,17 +1,18 @@
 ---
-title: Nome da Fortaleza
+title: Fortaleza dos Justiçarios
 tags:
   - lugar
-  - modelo
   - tipo/fortaleza
-draft: "false"
+  - modelo
+  - status/ativo
 created: 2025-06-27
+draft: "false"
 ---
 ---
 > [!abstract] **Resumo**
 > Descrição breve da fortaleza: localização estratégica, função histórica e papel atual no mundo.
 
-![[imagem-fortaleza.webp|400]]
+![[Base Justiçarios.webp|400]]
 
 ---
 
@@ -19,15 +20,15 @@ created: 2025-06-27
 >
 > | Campo                | Informação                         |
 > |----------------------|------------------------------------|
-> | **Nome Completo**    | Nome Oficial da Fortaleza          |
-> | **Nomes Alternativos** | Apelidos, nomes antigos           |
-> | **Tipo**             | Fortaleza, castelo, reduto, bastião |
-> | **Região**           | [[Nome da Região]]                |
-> | **Governante Atual** | [[Comandante ou Lorde]]            |
-> | **População**        | ~XXX soldados e residentes         |
-> | **Status**           | 🟢 Ativa / 🟡 Parcial / 🔴 Abandonada |
+> | **Nome Completo**    | Fortaleza dos Justiçarios          |
+> | **Nomes Alternativos** | Fortaleza da montanha           |
+> | **Tipo**             | Fortaleza |
+> | **Região**           | [[Sommerland]]             |
+> | **Governante Atual** | [[Justiçarios]]            |
+> | **População**        | ~500 soldados e residentes         |
+> | **Status**           | 🟢 Ativa |
 > | **Fundação**         | Ano ou era                         |
-> | **Acesso**           | Estradas, trilhas, passagens secretas |
+> | **Acesso**           | Trilha da montanha de [[Sommerland]] |
 
 ---
 

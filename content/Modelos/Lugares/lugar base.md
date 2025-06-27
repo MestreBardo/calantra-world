@@ -3,9 +3,8 @@ title: Nome do Lugar
 tags:
   - lugar
   - modelo
-created:
-  "{ date:YYYY-MM-DD }": 
 draft: "true"
+created: 2025-06-27
 ---
 ---
 > [!note]- 📋 **Informações Básicas**

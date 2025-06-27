@@ -5,8 +5,7 @@ tags:
   - status/desconhecido
   - tipo/ruina
   - modelo
-created:
-  "{ date:YYYY-MM-DD }":
+created: 2025-06-27
 ---
 ---
 > [!abstract] **Resumo**
