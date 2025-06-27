@@ -22,6 +22,7 @@ for root, _, files in os.walk(vault_path):
             continue
 
         path = os.path.join(root, filename)
+        print(f"Processando: {filename}")
         with open(path, encoding="utf-8") as file:
             content = file.read()
 
@@ -37,19 +38,21 @@ for root, _, files in os.walk(vault_path):
                 if line.strip().startswith("tags:"):
                     inTagSection = True
                     continue
+                elif inTagSection and not bool(re.search(r"\b\w+:", line)):
+                    tag = [t.strip() for t in re.findall(r"[-\s]*([^\[\],]+)", line) if t.strip()]
+                    tags.extend(tag)                                      
                 elif line.strip().startswith("draft:"):
                     draft = "true" in line.lower()
                     inTagSection = False
-                elif inTagSection:
-                    tag = [t.strip() for t in re.findall(r"[-\s]*([^\[\],]+)", line) if t.strip()]
-                    tags.extend(tag)
-                    print(f"Tags encontradas: {tags}")
+            
+            print(f"Tags encontradas: {tags}")  
 
             # Ignorar se for draft ou modelo
             if draft or any("modelo" in t.lower() for t in tags):
                 continue
 
             # Categorizar por tipo/xxxxx
+            print(f"Adicionando a lista: {filename}")
             for tipo, titulo in categorias.items():
                 if f"tipo/{tipo}" in tags:
                     locais[tipo].append(filename.replace(".md", ""))
@@ -69,6 +72,7 @@ with open(index_path, "w", encoding="utf-8") as index:
     index.write("---\n\n")
 
     for tipo, titulo in categorias.items():
+        print(f"Escrevendo índice para: {titulo}")
         index.write(f"> [!note]- {titulo}\n>\n")
         for nome in sorted(locais[tipo]):
             index.write(f"> - [[{nome}]]\n")
