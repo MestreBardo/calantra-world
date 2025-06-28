@@ -19,7 +19,7 @@ created: 2025-06-26
 | -------------------- | ------------------------------------------- |
 | **Nome Completo**    | Hysak                                       |
 | **Títulos/Apelidos** | Lider dos [[Justiçarios]]/Arauto da justiça |
-| **Raça/Espécie**     | #humano                                     |
+| **Raça/Espécie**     | #ancestralidade/humano                      |
 | **Gênero**           | Masculino                                   |
 | **Idade**            | XX anos (aparente/real)                     |
 | **Status**           | 🟢 Vivo                                     |
