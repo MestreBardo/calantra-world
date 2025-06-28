@@ -1,11 +1,8 @@
 ---
-title: Rolfgrim "O Panfleteiro"
+title: Zinnia
 aliases:
-  - O Panfleteiro
-tags:
-  - pessoa
-  - ancestralidade/gnomo
-  - status/vivo
+  - Fiapo
+tags: []
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -15,7 +12,7 @@ draft: "false"
 > [!abstract] Resumo
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.
 
-![[Rolfgrim - O Panfleteiro.webp|300]]
+![[Zinnia - Fiappo.webp|300]]
 
 ## 📋 Informações Básicas
 
@@ -246,7 +243,7 @@ draft: "false"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #ancestralidade/gnomo #status/vivo 
 
 ---
 

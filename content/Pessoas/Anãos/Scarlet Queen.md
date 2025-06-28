@@ -1,10 +1,7 @@
 ---
 title: Scarlet Queen
-aliases: []
-tags:
-  - pessoa
-  - status/vivo
-  - ancestralidade/anão
+aliases: 
+tags: []
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -245,7 +242,7 @@ draft: "false"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #ancestralidade/anão #status/vivo 
 
 ---
 

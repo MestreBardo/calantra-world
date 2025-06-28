@@ -3,12 +3,7 @@ title: Rizen Segundo
 aliases:
   - O Líder
   - Sentinela de Ferro
-tags:
-  - pessoa
-  - ancestralidade/humano
-  - ancestralidade/elfo
-  - status/vivo
-  - facção/circulo_da_lua_crescente
+tags: []
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -249,7 +244,7 @@ draft: "false"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #ancestralidade/elfo #ancestralidade/humano #status/vivo #facção/circulo_da_lua_crescente 
 
 ---
 
