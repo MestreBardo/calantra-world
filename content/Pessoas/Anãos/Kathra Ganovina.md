@@ -1,10 +1,7 @@
 ---
 title: Kathra Ganovina
 aliases: 
-tags:
-  - pessoa
-  - status/vivo
-  - ancestralidade/anão
+tags: 
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -245,7 +242,7 @@ draft: "false"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #status/vivo #ancestralidade/anão 
 
 ---
 

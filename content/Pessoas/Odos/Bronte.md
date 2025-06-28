@@ -1,10 +1,7 @@
 ---
 title: Bronte
 aliases: 
-tags:
-  - pessoa
-  - ancestralidade/odo
-  - status/vivo
+tags: []
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -246,7 +243,7 @@ draft: "false"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #ancestralidade/odo #status/vivo 
 
 ---
 

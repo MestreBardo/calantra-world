@@ -1,10 +1,7 @@
 ---
 title: Bartley
 aliases: 
-tags:
-  - pessoa
-  - ancestralidade/humano
-  - status/vivo
+tags: []
 cssclasses:
   - character-page
 draft: "false"
@@ -229,7 +226,7 @@ created: 2025-06-26
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #ancestralidade/humano #status/vivo 
 
 ---
 

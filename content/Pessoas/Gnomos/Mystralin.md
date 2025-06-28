@@ -1,11 +1,7 @@
 ---
 title: Mystralin
 aliases: 
-tags:
-  - pessoa
-  - ancestralidade/gnomo
-  - status/vivo
-  - facção/adagas_de_cobre
+tags: []
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -246,7 +242,7 @@ draft: "false"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #ancestralidade/gnomo #status/vivo #facção/adagas_de_cobre 
 
 ---
 

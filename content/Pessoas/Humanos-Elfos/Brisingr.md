@@ -1,11 +1,7 @@
 ---
 title: Brisingr
 aliases: 
-tags:
-  - pessoa
-  - ancestralidade/humano
-  - ancestralidade/elfo
-  - status/vivo
+tags: []
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -246,7 +242,7 @@ draft: "false"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:** #pessoa #ancestralidade/elfo #ancestralidade/humano #status/vivo 
 
 ---
 
