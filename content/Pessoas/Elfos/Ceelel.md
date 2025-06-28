@@ -1,40 +1,33 @@
 ---
-title: Hysak
-aliases:
-  - Apelido
-  - Título
-  - Nome Alternativo
-  - O Líder
-  - Sentinela de Ferro
+title: Ceelel
+aliases: 
 tags:
-  - personagens
-  - personagem
-  - facção/justiçarios
+  - pessoa
   - status/vivo
-  - modelo
+  - ancestralidade/elfo
+created: 2025-06-26
 cssclasses:
   - character-page
 draft: "false"
-created: 2025-06-26
 ---
 ---
 > [!abstract] Resumo
-> Lider e um dos fundadores dos [[Justiçarios]], paladino da justiça seguidor de [[Kermis]]
+> Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.
 
-![[Hysak 1.webp|300]]
+![[Ceelel.webp|300]]
 
 ## 📋 Informações Básicas
 
-| Campo                | Informação                                  |
-| -------------------- | ------------------------------------------- |
-| **Nome Completo**    | Hysak                                       |
-| **Títulos/Apelidos** | Lider dos [[Justiçarios]]/Arauto da justiça |
-| **Raça/Espécie**     | #humano                                     |
-| **Gênero**           | Masculino                                   |
-| **Idade**            | XX anos (aparente/real)                     |
-| **Status**           | 🟢 Vivo                                     |
-| **Ocupação**         | Lider dos [[Justiçarios]]                   |
-| **Local Atual**      | [[Fortaleza dos Justiçarios]]               |
+| Campo                | Informação                             |
+| -------------------- | -------------------------------------- |
+| **Nome Completo**    | Nome Completo do Personagem            |
+| **Títulos/Apelidos** | Lista de títulos e apelidos conhecidos |
+| **Raça/Espécie**     | [[Raça]]                               |
+| **Gênero**           | Masculino/Feminino/Outro               |
+| **Idade**            | XX anos (aparente/real)                |
+| **Status**           | 🟢 Vivo / 🔴 Morto / ❓ Desconhecido    |
+| **Ocupação**         | Profissão ou função principal          |
+| **Local Atual**      | [[Onde vive atualmente]]               |
 
 ## 🗓️ História e Cronologia
 
@@ -62,13 +55,27 @@ created: 2025-06-26
 > - **Desafios**: Problemas que enfrenta
 > - **Projetos**: Empreendimentos em andamento
 
+> [!danger]- **Morte** (Se aplicável)
+> - **Data**: DD/MM/AAAA
+> - **Local**: [[Local da Morte]]
+> - **Causa**: Como e por que morreu
+> - **Circunstâncias**: Contexto detalhado da morte
+> - **Impacto**: Consequências da morte no mundo/história
+
 ## 🏛️ Afiliações
 
 > [!note]- **Organizações Atuais**
 > 
 > | Organização | Posição | Desde | Responsabilidades |
 > |-------------|---------|-------|-------------------|
-> | [[Justiçarios]] | Líder | AAAA | Liderança |
+> | [[Organização Principal]] | Líder | AAAA | Principais funções e deveres |
+> | [[Segunda Organização]] | Membro | AAAA | Função específica |
+
+> [!note]- **Organizações Anteriores**
+> 
+> | Organização | Ex-Posição | Período | Motivo da Saída |
+> |-------------|------------|---------|-----------------|
+> | [[Organização Anterior]] | Ex-Cargo | AAAA-AAAA | Razão para deixar |
 
 ## ⚔️ Feitos e Conquistas
 
@@ -76,8 +83,9 @@ created: 2025-06-26
 > 
 > | Ano | Feito | Impacto | Testemunhas |
 > |-----|-------|---------|-------------|
-> | AAAA | Libertou gnomos escravos de Pitderim | Consequências principais | [[Caspar]] |
-> | AAAA | Fundou os [[Justiçarios]] | Criação de uma facção voltada a proteger Calantra e as pessoas que nela vivem tentando trazer estabilidade e justiça | [[Caspar]] |
+> | AAAA | [[Nome do Feito Principal]] | Consequências principais | [[Testemunha]] |
+> | AAAA | [[Segunda Grande Conquista]] | Significado e reconhecimento | [[Testemunha]] |
+> | AAAA | [[Terceira Realização]] | Mudanças resultantes | [[Testemunha]] |
 
 > [!warning]- **Batalhas e Conflitos**
 > 
@@ -102,7 +110,7 @@ created: 2025-06-26
 > 
 > | Nome | Tipo | Confiança | Desde | Descrição |
 > |------|------|-----------|-------|-----------|
-> | [[Caspar]] | Melhor Amigo | ⭐⭐⭐⭐⭐ | AAAA | Caspar e Hysak se conheceram quando formaram um grupo para buscar o [[Códex Ignis]] |
+> | [[Melhor Amigo]] | Íntimo | ⭐⭐⭐⭐⭐ | AAAA | Como se conheceram |
 > | [[Aliado Estratégico]] | Político | ⭐⭐⭐⭐⬜ | AAAA | Natureza da aliança |
 > | [[Companheiro]] | Profissional | ⭐⭐⭐⬜⬜ | AAAA | - |
 
@@ -110,15 +118,15 @@ created: 2025-06-26
 > 
 > | Nome | Tipo | Intensidade | Origem | Status Atual |
 > |------|------|-------------|--------|--------------|
-> | [[Aldanesh]] | Inimigo | ⭐⭐⭐⭐⭐ | Como começou | Ativo |
-> | [[Calantinas]] | Inimigo | ⭐⭐⭐⭐⭐ | Área de rivalidade | Ativo |
+> | [[Principal Inimigo]] | Inimigo | ⭐⭐⭐⭐⭐ | Como começou | Ativo |
+> | [[Rival Profissional]] | Rival | ⭐⭐⭐⬜⬜ | Área de rivalidade | Saudável |
 
 > [!tip]- **Mentores e Discípulos**
 > 
 > | Nome | Tipo | Área | Status |
 > |------|------|------|--------|
-> | [[Alistair]] | Mentor | Antigo portador da [[Julgadora]]  | Concluído |
-> | [[Aveerika]] | Discípulo | Justiçaria discípula de Hysak | Em progresso |
+> | [[Nome do Mentor]] | Mentor | Área de ensino | Ativo/Inativo |
+> | [[Nome do Discípulo]] | Discípulo | O que ensina | Em progresso |
 
 ## 🎯 Personalidade
 
@@ -228,7 +236,8 @@ created: 2025-06-26
 > 
 > | Item | Tipo | Origem | Propriedades |
 > |------|------|--------|--------------|
-> | [[Julgadora]] | Espada | Espada da deusa da justiça [[Kermis]] | Nunca quebra |
+> | [[Arma Especial]] | Espada | Herança | Nunca quebra |
+> | [[Item Mágico]] | Amuleto | Recompensa | Proteção mágica |
 
 ---
 
