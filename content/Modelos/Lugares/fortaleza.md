@@ -4,7 +4,7 @@ tags:
   - lugar
   - modelo
   - tipo/fortaleza
-draft: "false"
+draft: "true"
 created: 2025-06-27
 ---
 ---

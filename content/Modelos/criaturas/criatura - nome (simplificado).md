@@ -5,6 +5,7 @@ tags:
   - tipo/fauna
   - origem/natural
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] Animal típico da fauna regional. Descrição rápida do que é, onde vive, e sua função ecológica.

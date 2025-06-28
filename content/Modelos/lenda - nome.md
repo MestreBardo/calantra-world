@@ -4,6 +4,7 @@ tags:
   - lenda
   - tipo/mítico
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] Breve narrativa da lenda e sua importância cultural ou espiritual no mundo.

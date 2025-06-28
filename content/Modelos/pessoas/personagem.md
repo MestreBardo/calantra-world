@@ -11,7 +11,7 @@ tags:
 created: 2025-06-26
 cssclasses:
   - character-page
-draft: "false"
+draft: "true"
 ---
 ---
 > [!abstract] Resumo

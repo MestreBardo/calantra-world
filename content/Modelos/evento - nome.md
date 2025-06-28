@@ -4,6 +4,7 @@ tags:
   - evento
   - tipo/historico
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] Breve explicação do que foi o evento, quando ocorreu e por que é importante.

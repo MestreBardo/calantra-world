@@ -6,6 +6,7 @@ tags:
   - raridade/raro
   - modelo
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] Breve descrição do item: sua natureza, origem e importância. Pode incluir aparência, aura mágica ou função lendária.

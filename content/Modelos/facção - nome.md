@@ -5,6 +5,7 @@ tags:
   - tipo/guilda
   - modelo
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] Breve descrição da facção: sua missão, influência e reputação no mundo.

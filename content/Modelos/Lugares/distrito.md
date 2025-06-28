@@ -5,6 +5,7 @@ tags:
   - tipo/distrito
   - modelo
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] Descrição breve do distrito: sua função e personalidade geral.

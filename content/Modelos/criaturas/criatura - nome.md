@@ -6,6 +6,7 @@ tags:
   - origem/natural
   - modelo
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] Descrição breve da criatura: aparência geral, comportamento típico, e o que a torna única.

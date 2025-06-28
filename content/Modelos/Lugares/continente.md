@@ -6,6 +6,7 @@ tags:
   - status/explorado
   - modelo
 created: 2025-06-27
+draft: "true"
 ---
 ---
 > [!abstract] **Resumo**

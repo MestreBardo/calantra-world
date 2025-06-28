@@ -8,7 +8,7 @@ tags:
 created: 2025-06-26
 cssclasses:
   - minor-character-page
-draft: "false"
+draft: "true"
 ---
 ---
 > [!abstract] Resumo Breve descrição em uma frase do personagem e sua relevância.
