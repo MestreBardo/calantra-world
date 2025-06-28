@@ -226,7 +226,7 @@ created: 2025-06-26
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #pessoa #ancestralidade/humano #status/vivo 
+**Tags:** #pessoa #ancestralidade/humano #status_vivo
 
 ---
 
