@@ -3,11 +3,6 @@ title: Nome do Personagem
 aliases:
   - O Líder
   - Sentinela de Ferro
-tags:
-  - personagem
-  - facção/justiçarios
-  - status/vivo
-  - modelo
 created: 2025-06-26
 cssclasses:
   - character-page
@@ -248,7 +243,7 @@ draft: "true"
 
 **Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
 
-**Tags:** #personagens #humano #justiçarios #vivo #guerreiro
+**Tags:**  #pessoa #ancestralidade/humano #status/vivo #facção/justiçarios #modelo
 
 ---
 

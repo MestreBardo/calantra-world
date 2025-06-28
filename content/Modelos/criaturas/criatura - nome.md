@@ -1,10 +1,5 @@
 ---
 title: Nome da Criatura
-tags:
-  - criatura
-  - tipo/animal
-  - origem/natural
-  - modelo
 created: 2025-06-27
 draft: "true"
 ---
@@ -88,6 +83,13 @@ draft: "true"
 > - Relato de testemunhas
 > - Teorias divergentes sobre sua origem
 > - Versões regionais do nome
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #criatura #tipo/animal #origem/natural #modelo
 
 ---
 

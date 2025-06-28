@@ -1,10 +1,5 @@
 ---
 title: Nome da Cidade
-tags:
-  - lugar
-  - tipo/cidade
-  - status/ativo
-  - modelo
 created: 2025-06-27
 draft: "true"
 ---
@@ -130,6 +125,13 @@ draft: "true"
 > - [[Cidades vizinhas ou rivais]]
 > - [[Portais mágicos ou rotas estratégicas]]
 > - **Importância Regional**: Centro político, comercial ou mágico?
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #lugar #tipo/cidade #status/ativo #modelo
 
 ---
 

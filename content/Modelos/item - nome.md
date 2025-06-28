@@ -1,10 +1,5 @@
 ---
 title: Nome do Item
-tags:
-  - item
-  - tipo/artefato
-  - raridade/raro
-  - modelo
 created: 2025-06-27
 draft: "true"
 ---
@@ -77,6 +72,14 @@ draft: "true"
 > - Relatos contraditórios sobre sua origem ou poder
 
 ---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #item #tipo/magico #modelo
+
+---
+
 
 *Criado: 2025-06-27*  
 *Última atualização: 2025-06-27*

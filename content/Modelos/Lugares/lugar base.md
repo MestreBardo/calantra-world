@@ -1,8 +1,5 @@
 ---
 title: Nome do Lugar
-tags:
-  - lugar
-  - modelo
 draft: "true"
 created: 2025-06-27
 ---
@@ -42,5 +39,12 @@ created: 2025-06-27
 > - **Motivo da fundação**: Comércio, defesa, refúgio, religião...
 > - **Época**: Ex: "Era do Ferro", "Ano 143 d.C."
 > - **Primeiros habitantes**: Povos ou grupos envolvidos
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #lugar #modelo
 
 ---

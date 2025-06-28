@@ -1,9 +1,5 @@
 ---
 title: Nome do Distrito
-tags:
-  - lugar
-  - tipo/distrito
-  - modelo
 created: 2025-06-27
 draft: "true"
 ---
@@ -50,6 +46,13 @@ draft: "true"
 > | [[Taverna das Sombras]] | Social | Frequentada por espiões |
 > | [[Templo de Tharil]] | Religioso | Centro de cura e meditação |
 > | [[Praça das Vozes]] | Público | Reuniões, pregadores e conflitos |
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #lugar #tipo/distrito #status/ativo #modelo
 
 ---
 

@@ -1,9 +1,5 @@
 ---
 title: Nome do Animal - simplificado
-tags:
-  - criatura
-  - tipo/fauna
-  - origem/natural
 created: 2025-06-27
 draft: "true"
 ---
@@ -51,6 +47,13 @@ draft: "true"
 > - Nomes alternativos (por região ou idioma)
 > - Costumes populares ou lendas envolvendo o animal
 > - Primeiro registro da espécie (ou uso comum)
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #criatura #tipo/fauna #origem/natural #modelo
 
 ---
 

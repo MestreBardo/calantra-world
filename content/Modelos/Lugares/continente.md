@@ -1,10 +1,5 @@
 ---
 title: Nome do Continente
-tags:
-  - lugar
-  - tipo/continente
-  - status/explorado
-  - modelo
 created: 2025-06-27
 draft: "true"
 ---
@@ -97,6 +92,13 @@ draft: "true"
 > - **Exportações culturais**: Magia, filosofia, escrita, tecnologia antiga
 > - **Fronteiras disputadas com outros continentes**: Pontes mágicas, arquipélagos contestados
 > - **Impacto sobre o equilíbrio mundial**: Domínio imperial? Isolamento? Centro de profecias?
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #lugar #tipo/continente #status/explorado #modelo
 
 ---
 

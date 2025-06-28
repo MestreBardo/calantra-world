@@ -1,8 +1,5 @@
 ---
 title: Nome do Evento
-tags:
-  - evento
-  - tipo/historico
 created: 2025-06-27
 draft: "true"
 ---
@@ -55,6 +52,13 @@ draft: "true"
 > - Como o povo ou os historiadores veem o evento?
 > - Existem lendas, monumentos, ou cultos em torno dele?
 > - Documentos ou testemunhos preservados?
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #evento #tipo/historico #modelo
 
 ---
 

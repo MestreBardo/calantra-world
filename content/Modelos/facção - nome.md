@@ -1,9 +1,5 @@
 ---
 title: Nome da Facção
-tags:
-  - facção
-  - tipo/guilda
-  - modelo
 created: 2025-06-27
 draft: "true"
 ---
@@ -64,6 +60,13 @@ draft: "true"
 > - Verdade oculta sobre origem ou motivações?
 > - Conexões com planos, entidades ou artefatos?
 > - Traições internas? Infiltrados?
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #facção #tipo/guilda #modelo
 
 ---
 
