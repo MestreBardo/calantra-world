@@ -2,6 +2,11 @@
 title: Nome da Criatura
 created: 2025-06-27
 draft: "true"
+tags:
+  - criatura
+  - tipo/animal
+  - origem/natural
+  - modelo
 ---
 ---
 > [!abstract] Descrição breve da criatura: aparência geral, comportamento típico, e o que a torna única.
@@ -84,14 +89,6 @@ draft: "true"
 > - Teorias divergentes sobre sua origem
 > - Versões regionais do nome
 
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #criatura #tipo/animal #origem/natural #modelo
-
----
 
 *Criado: 2025-06-27*  
 *Última atualização: 2025-06-27*

@@ -2,6 +2,11 @@
 title: Nome do Animal - simplificado
 created: 2025-06-27
 draft: "true"
+tags:
+  - criatura
+  - origem/natural
+  - modelo
+  - tipo/fauna
 ---
 ---
 > [!abstract] Animal típico da fauna regional. Descrição rápida do que é, onde vive, e sua função ecológica.
@@ -47,13 +52,6 @@ draft: "true"
 > - Nomes alternativos (por região ou idioma)
 > - Costumes populares ou lendas envolvendo o animal
 > - Primeiro registro da espécie (ou uso comum)
-
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #criatura #tipo/fauna #origem/natural #modelo
 
 ---
 

@@ -1,7 +1,11 @@
 ---
 title: Hysak
 aliases: 
-tags: []
+tags:
+  - pessoa
+  - ancestralidade/humano
+  - status/vivo
+  - facção/justiçarios
 cssclasses:
   - character-page
 draft: "false"
@@ -219,15 +223,5 @@ created: 2025-06-26
 > | Item | Tipo | Origem | Propriedades |
 > |------|------|--------|--------------|
 > | [[Julgadora]] | Espada | Espada da deusa da justiça [[Kermis]] | Nunca quebra |
-
----
-
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:** #pessoa #ancestralidade/humano #status/vivo #facção/justiçarios 
-
----
 
 *Criado: 2025-06-26 | Atualizado: 2025-06-26*

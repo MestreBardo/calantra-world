@@ -2,6 +2,10 @@
 title: Nome do Item
 created: 2025-06-27
 draft: "true"
+tags:
+  - item
+  - tipo/magico
+  - modelo
 ---
 ---
 > [!abstract] Breve descrição do item: sua natureza, origem e importância. Pode incluir aparência, aura mágica ou função lendária.
@@ -70,13 +74,6 @@ draft: "true"
 > - Interações com outros itens
 > - Riscos de destruição ou fusão
 > - Relatos contraditórios sobre sua origem ou poder
-
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #item #tipo/magico #modelo
 
 ---
 

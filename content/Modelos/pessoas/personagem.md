@@ -7,6 +7,12 @@ created: 2025-06-26
 cssclasses:
   - character-page
 draft: "true"
+tags:
+  - pessoa
+  - ancestralidade/humano 
+  - status/vivo
+  - facção/justiçarios
+  - modelo
 ---
 ---
 > [!abstract] Resumo
@@ -236,14 +242,6 @@ draft: "true"
 > |------|------|--------|--------------|
 > | [[Arma Especial]] | Espada | Herança | Nunca quebra |
 > | [[Item Mágico]] | Amuleto | Recompensa | Proteção mágica |
-
----
-
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #pessoa #ancestralidade/humano #status/vivo #facção/justiçarios #modelo
 
 ---
 

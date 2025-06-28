@@ -2,6 +2,11 @@
 title: Nome da Região
 created: 2025-06-27
 draft: "true"
+tags:
+  - lugar
+  - modelo
+  - tipo/regiao
+  - status/ativo
 ---
 ---
 > [!abstract] **Resumo**
@@ -107,13 +112,6 @@ draft: "true"
 > - **Relação com o Reino Soberano**: Lealdade, autonomia, rivalidade?
 > - **Posição estratégica**: Rota entre oceanos? Fronteira mágica?
 > - **Importância simbólica ou espiritual**: Origem de cultos, profecias?
-
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #lugar #tipo/regiao #status/ativo #modelo
 
 ---
 

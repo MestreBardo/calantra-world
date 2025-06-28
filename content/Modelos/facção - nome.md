@@ -2,6 +2,10 @@
 title: Nome da Facção
 created: 2025-06-27
 draft: "true"
+tags:
+  - facção
+  - tipo/guilda
+  - modelo
 ---
 ---
 > [!abstract] Breve descrição da facção: sua missão, influência e reputação no mundo.
@@ -60,13 +64,6 @@ draft: "true"
 > - Verdade oculta sobre origem ou motivações?
 > - Conexões com planos, entidades ou artefatos?
 > - Traições internas? Infiltrados?
-
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #facção #tipo/guilda #modelo
 
 ---
 

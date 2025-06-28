@@ -2,6 +2,10 @@
 title: Nome do Evento
 created: 2025-06-27
 draft: "true"
+tags:
+  - evento
+  - tipo/historico
+  - modelo
 ---
 ---
 > [!abstract] Breve explicação do que foi o evento, quando ocorreu e por que é importante.
@@ -52,13 +56,6 @@ draft: "true"
 > - Como o povo ou os historiadores veem o evento?
 > - Existem lendas, monumentos, ou cultos em torno dele?
 > - Documentos ou testemunhos preservados?
-
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #evento #tipo/historico #modelo
 
 ---
 

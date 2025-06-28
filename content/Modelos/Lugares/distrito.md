@@ -2,6 +2,11 @@
 title: Nome do Distrito
 created: 2025-06-27
 draft: "true"
+tags:
+  - lugar
+  - modelo
+  - tipo/distrito
+  - status/ativo
 ---
 ---
 > [!abstract] Descrição breve do distrito: sua função e personalidade geral.
@@ -46,13 +51,6 @@ draft: "true"
 > | [[Taverna das Sombras]] | Social | Frequentada por espiões |
 > | [[Templo de Tharil]] | Religioso | Centro de cura e meditação |
 > | [[Praça das Vozes]] | Público | Reuniões, pregadores e conflitos |
-
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #lugar #tipo/distrito #status/ativo #modelo
 
 ---
 

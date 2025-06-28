@@ -6,6 +6,10 @@ created: 2025-06-26
 cssclasses:
   - minor-character-page
 draft: "true"
+tags:
+  - pessoa
+  - secundarios
+  - modelo
 ---
 ---
 > [!abstract] Resumo Breve descrição em uma frase do personagem e sua relevância.
@@ -54,14 +58,6 @@ draft: "true"
 > - **Personalidade**: Traços básicos (se conhecido)
 > - **Aparência**: Descrição física (se relevante)
 > - **Curiosidades**: Fatos interessantes (se houver)
-
----
-
-## 📋 Referências
-
-**Conectado a:** [[Personagem Principal]] <!-- Listar apenas conexões diretas importantes -->
-
-**Tags:** #personagens #secundarios #modelo
 
 ---
 

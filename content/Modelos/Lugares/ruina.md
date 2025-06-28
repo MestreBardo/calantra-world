@@ -2,6 +2,11 @@
 title: Nome da Ruina
 created: 2025-06-27
 draft: "true"
+tags:
+  - lugar
+  - modelo
+  - tipo/ruina
+  - status/desconhecido
 ---
 ---
 > [!abstract] **Resumo**
@@ -98,13 +103,6 @@ draft: "true"
 > - [[Cidade Exploradora ou Universidade]]
 >
 > **Importância Estratégica ou Mítica:** Ex: ponto de energia, local de revelações proféticas, ou fonte de conflito entre facções.
-
----
-## 📋 Referências Rápidas
-
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:**  #lugar #tipo/ruina #status/desconhecido #modelo
 
 ---
 
