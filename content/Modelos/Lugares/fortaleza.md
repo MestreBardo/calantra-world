@@ -1,9 +1,5 @@
 ---
 title: Nome da Fortaleza
-tags:
-  - lugar
-  - modelo
-  - tipo/fortaleza
 draft: "true"
 created: 2025-06-27
 ---
@@ -99,6 +95,13 @@ created: 2025-06-27
 > - [[Fortaleza Gêmea ou Apoio Militar]]
 >
 > **Relação Atual com o Mundo**: Central em campanha militar? Fronteira esquecida? Posto diplomático secreto?
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #lugar #tipo/fortaleza #status/ativo #modelo
 
 ---
 

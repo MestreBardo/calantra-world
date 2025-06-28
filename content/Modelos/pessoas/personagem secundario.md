@@ -2,9 +2,6 @@
 title: Nome do Personagem secundario
 aliases:
   - Sentinela de Ferro
-tags:
-  - Personagens
-  - modelo
 created: 2025-06-26
 cssclasses:
   - minor-character-page
@@ -64,7 +61,7 @@ draft: "true"
 
 **Conectado a:** [[Personagem Principal]] <!-- Listar apenas conexões diretas importantes -->
 
-**Tags:** #personagens #secundarios #[raça] #[status]
+**Tags:** #personagens #secundarios #modelo
 
 ---
 

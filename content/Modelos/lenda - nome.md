@@ -1,8 +1,5 @@
 ---
 title: Nome da Lenda
-tags:
-  - lenda
-  - tipo/mítico
 created: 2025-06-27
 draft: "true"
 ---
@@ -42,6 +39,13 @@ draft: "true"
 > - Profecias conectadas
 > - Eventos recentes que parecem repetir padrões da lenda
 > - Grupos que ainda seguem ou tentam reviver a lenda
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #lenda #tipo/mistico #modelo
 
 ---
 

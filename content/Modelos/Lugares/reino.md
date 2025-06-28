@@ -1,10 +1,5 @@
 ---
 title: Nome do Reino
-tags:
-  - lugar
-  - tipo/reino
-  - status/ativo
-  - modelo
 created: 2025-06-27
 draft: "true"
 ---
@@ -123,6 +118,13 @@ draft: "true"
 > - **Organismos Multinacionais**: Confederações, acordos mágicos
 > - **Disputas Fronteiriças ou Coloniais**
 > - **Influência internacional**: Cultural, arcana, política ou militar
+
+---
+## 📋 Referências Rápidas
+
+**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
+
+**Tags:**  #lugar #tipo/reino #status/ativo #modelo
 
 ---
 
