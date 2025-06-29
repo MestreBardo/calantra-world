@@ -7,6 +7,8 @@
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.
 
 ![[Imagens/Pessoas/Anãos/Nasnorra Sekidrolova.webp|300]]
+| File | status | prioridade |
+| ---- | ------ | ---------- |
 
 ## 📋 Informações Básicas
 
@@ -77,7 +79,7 @@
 > 
 > | Parentesco | Nome | Relacionamento | Status |
 > |------------|------|----------------|--------|
-> | Pai | [[Pessoas/Anãos/Nordrer Sekidrolov]] | Descrição breve | 🟢 Vivo |
+> | Pai | [[Pessoas/Anãos/Nordrer Sekidrolov]] | Descrição breve |  |
 
 > [!tip]- **Amigos e Aliados**
 > 

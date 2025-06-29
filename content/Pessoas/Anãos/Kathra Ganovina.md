@@ -22,6 +22,7 @@
 | **Ocupação**               | Cervejeira do Barril    |
 | **Local Atual**            | [[Lugares/Ilha dos Desejos/Cidade de Esperanza]] |
 
+
 ## 🗓️ História e Cronologia
 
 > [!note]- **Nascimento e Infância**
@@ -65,6 +66,7 @@
 > 
 > | Parentesco | Nome | Relacionamento | Status |
 > |------------|------|----------------|--------|
+> 
 
 > [!tip]- **Amigos e Aliados**
 > 
