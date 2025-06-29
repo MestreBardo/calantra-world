@@ -77,7 +77,7 @@
 > 
 > | Parentesco | Nome | Relacionamento | Status |
 > |------------|------|----------------|--------|
-> | Pai | [[Pessoas/Anãos/Nordrer Sekidrolov]] | Descrição breve | Vivo  |
+> | Pai | [[Pessoas/Anãos/Nordrer Sekidrolov]] | Descrição breve | Nordrer Sekidrolov  |
 
 > [!tip]- **Amigos e Aliados**
 > 
