@@ -60,14 +60,11 @@
 > 
 > | Organização | Posição | Desde | Responsabilidades |
 > |-------------|---------|-------|-------------------|
-> | [[Organização Principal]] | Líder | AAAA | Principais funções e deveres |
-> | [[Segunda Organização]] | Membro | AAAA | Função específica |
 
 > [!note]- **Organizações Anteriores**
 > 
 > | Organização | Ex-Posição | Período | Motivo da Saída |
 > |-------------|------------|---------|-----------------|
-> | [[Organização Anterior]] | Ex-Cargo | AAAA-AAAA | Razão para deixar |
 
 ## ⚔️ Feitos e Conquistas
 

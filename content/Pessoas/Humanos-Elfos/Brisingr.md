@@ -90,23 +90,16 @@
 > 
 > | Nome | Tipo | Confiança | Desde | Descrição |
 > |------|------|-----------|-------|-----------|
-> | [[Melhor Amigo]] | Íntimo | ⭐⭐⭐⭐⭐ | AAAA | Como se conheceram |
-> | [[Aliado Estratégico]] | Político | ⭐⭐⭐⭐⬜ | AAAA | Natureza da aliança |
-> | [[Companheiro]] | Profissional | ⭐⭐⭐⬜⬜ | AAAA | - |
 
 > [!warning]- **Inimigos e Rivais**
 > 
 > | Nome | Tipo | Intensidade | Origem | Status Atual |
 > |------|------|-------------|--------|--------------|
-> | [[Principal Inimigo]] | Inimigo | ⭐⭐⭐⭐⭐ | Como começou | Ativo |
-> | [[Rival Profissional]] | Rival | ⭐⭐⭐⬜⬜ | Área de rivalidade | Saudável |
 
 > [!tip]- **Mentores e Discípulos**
 > 
 > | Nome | Tipo | Área | Status |
 > |------|------|------|--------|
-> | [[Nome do Mentor]] | Mentor | Área de ensino | Ativo/Inativo |
-> | [[Nome do Discípulo]] | Discípulo | O que ensina | Em progresso |
 
 ## 🎯 Personalidade
 
@@ -133,33 +126,21 @@
 > 
 > | Habilidade | Nível | Especialização |
 > |------------|-------|----------------|
-> | Corpo a Corpo | ⭐⭐⭐⭐⭐ | Espadas longas, táticas defensivas |
-> | Combate à Distância | ⭐⭐⭐⭐⬜ | Arco longo, 200m efetivo |
-> | Táticas e Estratégia | ⭐⭐⭐⭐⭐ | Cercos, batalhas campais |
 
 > [!note]- **Habilidades Sociais**
 > 
 > | Habilidade | Nível | Estilo/Especialização |
 > |------------|-------|-----------------------|
-> | Liderança | ⭐⭐⭐⭐⭐ | Carismático, inspirador |
-> | Diplomacia | ⭐⭐⭐⭐⬜ | Negociações formais |
-> | Persuasão | ⭐⭐⭐⬜⬜ | Apelos à honra e justiça |
 
 > [!note]- **Conhecimentos**
 > 
 > | Área | Nível | Especialização |
 > |------|-------|----------------|
-> | História | ⭐⭐⭐⭐⬜ | Guerras antigas, heróis |
-> | Política | ⭐⭐⭐⭐⭐ | Sistemas militares |
-> | Geografia | ⭐⭐⭐⬜⬜ | Rotas comerciais |
-> | Sobrevivência | ⭐⭐⭐⭐⬜ | Montanhas, florestas |
 
 > [!magic]- **Poderes Especiais** (Se aplicável)
 > 
 > | Poder | Tipo | Alcance | Limitações |
 > |-------|------|---------|------------|
-> | [[Nome do Poder]] | Mágico | 50m | Consome energia vital |
-> | [[Poder Secundário]] | Psíquico | Contato visual | Apenas 3x por dia |
 
 ## 🗣️ Citações e Filosofia
 
@@ -201,31 +182,22 @@
 > 
 > | Local | Significado | Status Atual |
 > |-------|-------------|--------------|
-> | [[Local de Nascimento]] | Importância emocional | Destruído |
-> | [[Base Atual]] | Centro de operações | Ativo |
-> | [[Local Especial]] | Memórias importantes | Protegido |
 
 > [!example]- **Eventos Históricos**
 > 
 > | Evento | Data | Participação | Consequências |
 > |--------|------|--------------|---------------|
-> | [[Evento Decisivo]] | AAAA | Protagonista | Mudou completamente |
-> | [[Grande Batalha]] | AAAA | Comandante | Ganhou renome |
 
 > [!example]- **Objetos Importantes**
 > 
 > | Item | Tipo | Origem | Propriedades |
 > |------|------|--------|--------------|
-> | [[Arma Especial]] | Espada | Herança | Nunca quebra |
-> | [[Item Mágico]] | Amuleto | Recompensa | Proteção mágica |
 
 ---
 
 ## 📋 Referências Rápidas
 
-**Conexões Principais:** [[Organização Principal]] • [[Mentor]] • [[Principal Aliado]] • [[Maior Inimigo]] • [[Local de Origem]]
-
-**Tags:** #pessoa #ancestralidade/elfo #ancestralidade/humano #status/vivo 
+**Conexões Principais:** 
 
 ---
 

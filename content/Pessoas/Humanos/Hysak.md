@@ -14,7 +14,7 @@
 | -------------------- | ------------------------------------------- |
 | **Nome Completo**    | Hysak                                       |
 | **Títulos/Apelidos** | Lider dos [[Justiçarios]]/Arauto da justiça |
-| **Raça/Espécie**     | #calantra-world/ancestralidade/humano       |
+| **Raça/Espécie**     | [[Ancestralidades/Humanos\|Humano]]                         |
 | **Gênero**           | Masculino                                   |
 | **Idade**            | XX anos (aparente/real)                     |
 | **Status**           | 🟢 Vivo                                     |
