@@ -4,7 +4,7 @@
 
 ---
 > [!abstract] Resumo
-> Lider e um dos fundadores dos [[Justiçarios]], paladino da justiça seguidor de [[Kermis]]
+> Lider e um dos fundadores dos [[Facções/Justiçarios]], paladino da justiça seguidor de [[Deuses e Entidades/Deuses/Kermis]]
 
 ![[Imagens/Pessoas/Humanos/Hysak 1.webp|300]]
 
@@ -13,12 +13,12 @@
 | Campo                | Informação                                  |
 | -------------------- | ------------------------------------------- |
 | **Nome Completo**    | Hysak                                       |
-| **Títulos/Apelidos** | Lider dos [[Justiçarios]]/Arauto da justiça |
+| **Títulos/Apelidos** | Lider dos [[Facções/Justiçarios]]/Arauto da justiça |
 | **Raça/Espécie**     | [[Ancestralidades/Humanos\|Humano]]                         |
 | **Gênero**           | Masculino                                   |
 | **Idade**            | XX anos (aparente/real)                     |
 | **Status**           | 🟢 Vivo                                     |
-| **Ocupação**         | Lider dos [[Justiçarios]]                   |
+| **Ocupação**         | Lider dos [[Facções/Justiçarios]]                   |
 | **Local Atual**      | [[Lugares/Fortaleza dos Justiçarios]]               |
 
 ## 🗓️ História e Cronologia
@@ -53,7 +53,7 @@
 > 
 > | Organização | Posição | Desde | Responsabilidades |
 > |-------------|---------|-------|-------------------|
-> | [[Justiçarios]] | Líder | AAAA | Liderança |
+> | [[Facções/Justiçarios]] | Líder | AAAA | Liderança |
 
 ## ⚔️ Feitos e Conquistas
 
@@ -62,7 +62,7 @@
 > | Ano | Feito | Impacto | Testemunhas |
 > |-----|-------|---------|-------------|
 > | AAAA | Libertou gnomos escravos de Pitderim | Consequências principais | [[Pessoas/Elfos/Caspar]] |
-> | AAAA | Fundou os [[Justiçarios]] | Criação de uma facção voltada a proteger Calantra e as pessoas que nela vivem tentando trazer estabilidade e justiça | [[Pessoas/Elfos/Caspar]] |
+> | AAAA | Fundou os [[Facções/Justiçarios]] | Criação de uma facção voltada a proteger Calantra e as pessoas que nela vivem tentando trazer estabilidade e justiça | [[Pessoas/Elfos/Caspar]] |
 
 > [!warning]- **Batalhas e Conflitos**
 > 
@@ -213,6 +213,6 @@
 > 
 > | Item | Tipo | Origem | Propriedades |
 > |------|------|--------|--------------|
-> | [[Julgadora]] | Espada | Espada da deusa da justiça [[Kermis]] | Nunca quebra |
+> | [[Julgadora]] | Espada | Espada da deusa da justiça [[Deuses e Entidades/Deuses/Kermis]] | Nunca quebra |
 
 *Criado: 2025-06-26 | Atualizado: 2025-06-26*

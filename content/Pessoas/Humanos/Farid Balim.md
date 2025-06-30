@@ -1,31 +1,31 @@
 ---
-{"publish":true,"aliases":"O Flagelo da Humanidade","title":"Aldanesh","created":"2025-06-26","published":"false","tags":["pessoa","ancestralidade/elfo","status/vivo","facção/sangue_primevo"],"cssclasses":"character-page"}
+{"publish":true,"title":"Farid Balim","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo"],"cssclasses":"character-page"}
 ---
 
 ---
 > [!abstract] Resumo
-> Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.
+> 
 
-![[Imagens/Pessoas/Elfos/Aldanesh.webp|300]]
+![[Imagens/Pessoas/Humanos/Aurey Nautilhos.webp|300]]
 
 ## 📋 Informações Básicas
 
-| Campo                      | Informação                                       |
-| -------------------------- | ------------------------------------------------ |
-| **Nome Completo**          | Aldanesh                                         |
-| **Títulos/Apelidos**       | O Flagelo do Humanos                             |
-| **Ancestralidade/Espécie** | [[Ancestralidades/Elfos\|Elfo]]                                  |
-| **Gênero**                 | Masculino                                        |
-| **Idade**                  | XX anos (aparente/real)                          |
-| **Status**                 | 🟢 Vivo                                          |
-| **Ocupação**               | Líder do concelho elfo / Líder do sangue primevo |
-| **Local Atual**            | -                                                |
+| Campo                      | Informação              |
+| -------------------------- | ----------------------- |
+| **Nome Completo**          | Farid Balim             |
+| **Títulos/Apelidos**       | -                       |
+| **Ancestralidade/Espécie** | [[Ancestralidades/Humanos\|Humano]]     |
+| **Gênero**                 | Masculino               |
+| **Idade**                  | XX anos (aparente/real) |
+| **Status**                 | 🟢 Vivo                 |
+| **Ocupação**               | -                       |
+| **Local Atual**            | -                       |
 
 ## 🗓️ História e Cronologia
 
 > [!note]- **Nascimento e Infância**
 > - **Data**: DD/MM/AAAA ou Era/Período
-> - **Local**:
+> - **Local**: 
 > - **Família**: Descrição da família de origem
 > - **Eventos Formativos**: Experiências importantes da infância
 
@@ -47,24 +47,12 @@
 > - **Desafios**: Problemas que enfrenta
 > - **Projetos**: Empreendimentos em andamento
 
-> [!danger]- **Morte** (Se aplicável)
-> - **Data**: DD/MM/AAAA
-> - **Local**:
-> - **Causa**: Como e por que morreu
-> - **Circunstâncias**: Contexto detalhado da morte
-> - **Impacto**: Consequências da morte no mundo/história
-
 ## 🏛️ Afiliações
 
 > [!note]- **Organizações Atuais**
 > 
 > | Organização | Posição | Desde | Responsabilidades |
 > |-------------|---------|-------|-------------------|
-
-> [!note]- **Organizações Anteriores**
-> 
-> | Organização | Ex-Posição | Período | Motivo da Saída |
-> |-------------|------------|---------|-----------------|
 
 ## ⚔️ Feitos e Conquistas
 
@@ -196,8 +184,8 @@
 
 ## 📋 Referências Rápidas
 
-**Conexões Principais:**
+**Conexões Principais:** 
 
 ---
 
-*Criado: 2025-06-26 | Atualizado: 2025-06-26*
+*Criado: 2025-06-26 | Atualizado: 2025-06-29*

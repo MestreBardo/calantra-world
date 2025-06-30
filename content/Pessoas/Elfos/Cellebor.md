@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Cellebor","draft":"false","created":"2025-06-26","cssclasses":"character-page"}
+{"publish":true,"title":"Cellebor","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/elfo","status/desconhecido"],"cssclasses":"character-page"}
 ---
 
 ---
