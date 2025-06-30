@@ -14,7 +14,7 @@
 | -------------------------- | ----------------------------- |
 | **Nome Completo**          | O Praga do Império            |
 | **Títulos/Apelidos**       | -                             |
-| **Ancestralidade/Espécie** | [[Raça]]                      |
+| **Ancestralidade/Espécie** | [[Ancestralidades/Anãos\|Anão]]               |
 | **Gênero**                 | Masculino                     |
 | **Idade**                  | XX anos (aparente/real)       |
 | **Status**                 | 🔴 Morto                      |

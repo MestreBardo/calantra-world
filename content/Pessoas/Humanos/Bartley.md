@@ -4,7 +4,7 @@
 
 ---
 > [!abstract] Resumo
-> Lider e um dos fundadores dos [[Justiçarios]], paladino da justiça seguidor de [[Kermis]]
+> 
 
 ![[Imagens/Pessoas/Humanos/Bartley.webp|300]]
 
