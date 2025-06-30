@@ -6,7 +6,7 @@
 > [!abstract] Resumo
 > Lider e um dos fundadores dos [[Facções/Justiçarios]], paladino da justiça seguidor de [[Deuses e Entidades/Deuses/Kermis]]
 
-![[Imagens/Pessoas/Humanos/Hysak 1.webp|300]]
+![[Imagens/Pessoas/Humanos/Hysak.webp|300]]
 
 ## 📋 Informações Básicas
 
@@ -88,8 +88,6 @@
 > | Nome | Tipo | Confiança | Desde | Descrição |
 > |------|------|-----------|-------|-----------|
 > | [[Pessoas/Elfos/Caspar]] | Melhor Amigo | ⭐⭐⭐⭐⭐ | AAAA | Caspar e Hysak se conheceram quando formaram um grupo para buscar o [[Códex Ignis]] |
-> | [[Aliado Estratégico]] | Político | ⭐⭐⭐⭐⬜ | AAAA | Natureza da aliança |
-> | [[Companheiro]] | Profissional | ⭐⭐⭐⬜⬜ | AAAA | - |
 
 > [!warning]- **Inimigos e Rivais**
 > 
@@ -102,8 +100,8 @@
 > 
 > | Nome | Tipo | Área | Status |
 > |------|------|------|--------|
-> | [[Alistair]] | Mentor | Antigo portador da [[Julgadora]]  | Concluído |
-> | [[Aveerika]] | Discípulo | Justiçaria discípula de Hysak | Em progresso |
+> | [[Pessoas/Humanos/Alistair]] | Mentor | Antigo portador da [[Julgadora]]  | Concluído |
+> | [[Pessoas/Humanos-Elfos/Aveerika]] | Discípulo | Justiçaria discípula de Hysak | Em progresso |
 
 ## 🎯 Personalidade
 

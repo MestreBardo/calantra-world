@@ -84,7 +84,7 @@
 > 
 > | Parentesco | Nome | Relacionamento | Status |
 > |------------|------|----------------|--------|
-> | Pai | [[Pessoas/Elfos/Elathor]] | Descrição breve | 🟢 Vivo |
+> | Pai | [[Pessoas/Elfos/Elathor]] | Descrição breve | Desconhecido |
 
 > [!tip]- **Amigos e Aliados**
 > 

@@ -6,7 +6,7 @@
 > [!abstract] Resumo
 > 
 
-![[Imagens/Pessoas/Humanos/Aurey Nautilhos.webp|300]]
+![[Imagens/Pessoas/Humanos/Hassan Balim.webp|300]]
 
 ## 📋 Informações Básicas
 
@@ -72,6 +72,8 @@
 > 
 > | Parentesco | Nome | Relacionamento | Status |
 > |------------|------|----------------|--------|
+> |Tio|[[Pessoas/Humanos/Teiff Balim]]|-|Vivo|
+> |Tio|[[Pessoas/Humanos/Farid Balim]]|-|Vivo|
 
 > [!tip]- **Amigos e Aliados**
 > 

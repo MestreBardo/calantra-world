@@ -15,7 +15,7 @@
 | **Nome Completo**    | Brisingr                      |
 | **Títulos/Apelidos** | -                             |
 | **Raça/Espécie**     | [[Ancestralidades/Humanos-Elfos]]             |
-| **Gênero**           | Feminino                      |
+| **Gênero**           | Masculino                     |
 | **Idade**            | XX anos (aparente/real)       |
 | **Status**           | 🟢 Vivo                       |
 | **Ocupação**         | Profissão ou função principal |

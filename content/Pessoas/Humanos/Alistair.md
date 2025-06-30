@@ -1,18 +1,18 @@
 ---
-{"publish":true,"title":"Farid Balim","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo"],"cssclasses":"character-page"}
+{"publish":true,"title":"Alistair","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo"],"cssclasses":"character-page"}
 ---
 
 ---
 > [!abstract] Resumo
 > 
 
-![[Imagens/Pessoas/Humanos/Teiff Balim.webp|300]]
+![[Imagens/Pessoas/Humanos/Alistair.webp|300]]
 
 ## 📋 Informações Básicas
 
 | Campo                      | Informação              |
 | -------------------------- | ----------------------- |
-| **Nome Completo**          | Teiff Balim             |
+| **Nome Completo**          | Alistair                |
 | **Títulos/Apelidos**       | -                       |
 | **Ancestralidade/Espécie** | [[Ancestralidades/Humanos\|Humano]]     |
 | **Gênero**                 | Masculino               |
@@ -72,8 +72,6 @@
 > 
 > | Parentesco | Nome | Relacionamento | Status |
 > |------------|------|----------------|--------|
-> |Irmão|[[Pessoas/Humanos/Farid Balim]]|-|Vivo|
-> |Sobrinho|[[Pessoas/Humanos/Hassan Balim]]|-|Vivo|
 
 > [!tip]- **Amigos e Aliados**
 > 
