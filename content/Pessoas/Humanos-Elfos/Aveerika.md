@@ -6,7 +6,7 @@
 > [!abstract] Resumo
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.
 
-![[Imagens/Pessoas/Humanos-elfos/Brisingr.webp|300]]
+![[Imagens/Pessoas/Humanos-elfos/Aveerika.webp|300]]
 
 ## 📋 Informações Básicas
 
