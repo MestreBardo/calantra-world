@@ -18,7 +18,7 @@
 > | **Nomes Alternativos** | Fortaleza da montanha           |
 > | **Tipo**             | Fortaleza |
 > | **Região**           | [[Sommerland]]             |
-> | **Governante Atual** | [[Justiçarios]]            |
+> | **Governante Atual** | [[Facções/Justiçarios]]            |
 > | **População**        | ~500 soldados e residentes         |
 > | **Status**           | 🟢 Ativa |
 > | **Fundação**         | Ano ou era                         |
