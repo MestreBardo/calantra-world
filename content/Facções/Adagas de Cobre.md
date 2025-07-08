@@ -1,11 +1,11 @@
 ---
-{"publish":true,"title":"Justiçarios","draft":"false","created":"2025-07-06","tags":["facção","tipo/guilda"],"cssclasses":""}
+{"publish":true,"title":"Adagas de Cobre","draft":"false","created":"2025-07-06","tags":["facção","tipo/guilda"],"cssclasses":""}
 ---
 
 ---
 > [!abstract] Breve descrição da facção: sua missão, influência e reputação no mundo.
 
-![[Imagens/Facções/Justiçarios.webp|400]]
+![[Imagens/Facções/Adagas de Cobre.webp|400]]
 
 ---
 
@@ -40,8 +40,6 @@
 
 > | Cargo | Título | Função | Personagem |
 > |-------|--------|--------|------------|
-> |Líder e Fundador| - | Líder | [[Pessoas/Humanos/Hysak]]|
-
 
 ---
 
