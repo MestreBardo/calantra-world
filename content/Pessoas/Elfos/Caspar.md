@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"O Arauto de Artreia","title":"Caspar","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/elfo","status/vivo","facção/justiçarios"],"cssclasses":"character-page"}
+{"publish":true,"aliases":"O A r a u t o d e A r t r e i a","title":"Caspar","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/elfo","status/vivo","facção/justiçarios"],"cssclasses":"character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo

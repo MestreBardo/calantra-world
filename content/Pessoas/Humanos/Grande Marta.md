@@ -2,6 +2,7 @@
 {"publish":true,"title":"Grande Marta","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo"],"cssclasses":"character-page"}
 ---
 
+
 ---
 > [!abstract] Resumo
 

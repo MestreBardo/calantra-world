@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome do Distrito","draft":"true","created":"2025-06-27","tags":["lugar","modelo","tipo/distrito","status/ativo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Descrição breve do distrito: sua função e personalidade geral.
 

@@ -2,6 +2,7 @@
 {"publish":true,"title":"Thalindra","created":"2025-07-06","published":"false","tags":["pessoa","ancestralidade/elfo","status/vivo"],"cssclasses":"character-page"}
 ---
 
+
 ---
 > [!abstract] Resumo
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.

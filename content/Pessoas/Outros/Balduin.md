@@ -2,6 +2,7 @@
 {"publish":true,"title":"Balduin","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/fada","status/morto","facção/máscaras_de_balduin"],"cssclasses":"character-page"}
 ---
 
+
 ---
 > [!abstract] Resumo
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.

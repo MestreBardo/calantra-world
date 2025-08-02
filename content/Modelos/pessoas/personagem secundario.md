@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Sentinela de Ferro","title":"Nome do Personagem secundario","draft":"true","created":"2025-06-26","tags":["pessoa","secundarios","modelo"],"cssclasses":"minor-character-page"}
+{"publish":true,"aliases":"S e n t i n e l a d e F e r r o","title":"Nome do Personagem secundario","draft":"true","created":"2025-06-26","tags":["pessoa","secundarios","modelo"],"cssclasses":"minor-character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo Breve descrição em uma frase do personagem e sua relevância.

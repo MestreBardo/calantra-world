@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Ruina","draft":"true","created":"2025-06-27","tags":["lugar","modelo","tipo/ruina","status/desconhecido"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Descrição breve da ruína: quem a construiu, o que ela foi, e seu estado atual.

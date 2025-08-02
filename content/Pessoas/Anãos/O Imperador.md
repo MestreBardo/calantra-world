@@ -2,6 +2,7 @@
 {"publish":true,"title":"O Imperador","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/anão","status/desconhecido"],"cssclasses":"character-page"}
 ---
 
+
 ---
 > [!abstract] Resumo
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.

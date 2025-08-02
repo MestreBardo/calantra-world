@@ -2,6 +2,7 @@
 {"publish":true,"title":"Índice de Itens","created":"2025-06-27","tags":["índice","itens"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Lista de todos os itens relevantes do mundo: artefatos mágicos, objetos históricos, relíquias ou ferramentas notáveis.
 

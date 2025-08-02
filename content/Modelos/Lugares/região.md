@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Região","draft":"true","created":"2025-06-27","tags":["lugar","modelo","tipo/regiao","status/ativo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Breve descrição da região: posição geográfica, função estratégica, importância histórica ou cultural no mundo.

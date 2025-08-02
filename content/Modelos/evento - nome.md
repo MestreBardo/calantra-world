@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome do Evento","draft":"true","created":"2025-06-27","tags":["evento","tipo/historico","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Breve explicação do que foi o evento, quando ocorreu e por que é importante.
 

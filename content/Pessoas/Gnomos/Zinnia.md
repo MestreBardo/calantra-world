@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Fiapo","title":"Zinnia","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/gnomo","status/vivo"],"cssclasses":"character-page"}
+{"publish":true,"aliases":"F i a p o","title":"Zinnia","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/gnomo","status/vivo"],"cssclasses":"character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo

@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome do Reino","draft":"true","created":"2025-06-27","tags":["lugar","modelo","tipo/reino","status/ativo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Breve descrição do reino: origem, identidade nacional, governo atual e importância geopolítica no mundo.

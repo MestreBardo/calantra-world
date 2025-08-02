@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Facção","draft":"true","created":"2025-06-27","tags":["facção","tipo/guilda","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Breve descrição da facção: sua missão, influência e reputação no mundo.
 

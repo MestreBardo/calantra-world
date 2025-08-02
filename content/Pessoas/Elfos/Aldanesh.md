@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"O Flagelo da Humanidade","title":"Aldanesh","created":"2025-06-26","published":"false","tags":["pessoa","ancestralidade/elfo","status/vivo","facção/sangue_primevo"],"cssclasses":"character-page"}
+{"publish":true,"aliases":"O F l a g e l o d a H u m a n i d a d e","title":"Aldanesh","created":"2025-06-26","published":"false","tags":["pessoa","ancestralidade/elfo","status/vivo","facção/sangue_primevo"],"cssclasses":"character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo

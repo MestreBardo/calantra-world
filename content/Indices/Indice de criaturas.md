@@ -2,6 +2,7 @@
 {"publish":true,"title":"Índice de Criaturas","created":"2025-06-27","tags":["índice","criaturas"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Lista de todas as criaturas conhecidas do mundo — desde fauna natural até entidades planárias e lendas vivas.
 

@@ -2,6 +2,7 @@
 {"publish":true,"title":"Justiçarios","draft":"false","created":"2025-07-06","tags":["facção","tipo/guilda"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Breve descrição da facção: sua missão, influência e reputação no mundo.
 

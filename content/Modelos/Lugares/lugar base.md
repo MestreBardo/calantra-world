@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome do Lugar","draft":"true","created":"2025-06-27","tags":["lugar","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!note]- 📋 **Informações Básicas**
 > 

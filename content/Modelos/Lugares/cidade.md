@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Cidade","draft":"true","created":"2025-06-27","tags":["lugar","tipo/cidade","status/ativo","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Descrição breve da cidade: localização, importância no mundo, e função dominante (comercial, militar, capital, portuária etc).

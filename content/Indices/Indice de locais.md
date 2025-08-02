@@ -3,6 +3,7 @@
 ---
 
 
+
 > [!abstract] Este documento organiza todos os lugares de calantra em ordem hierárquica: de ruínas e vilas até continentes e o plano mundial. Cada localidade pode ter uma ou mais subentidades ligadas a ela.
 
 ---

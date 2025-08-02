@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Fortaleza","draft":"true","created":"2025-06-27","tags":["lugar","modelo","tipo/fortaleza","status/ativo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Descrição breve da fortaleza: localização estratégica, função histórica e papel atual no mundo.

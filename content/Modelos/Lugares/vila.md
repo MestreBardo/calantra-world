@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Vila","draft":"true","created":"2025-06-27","tags":["lugar","modelo","tipo/vila","status/ativo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Descrição breve da vila: origem, localização e o que a torna especial.

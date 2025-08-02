@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"O Líder Sentinela de Ferro","title":"Nome do Personagem","draft":"true","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo","facção/justiçarios","modelo"],"cssclasses":"character-page"}
+{"publish":true,"aliases":"O L í d e r S e n t i n e l a d e F e r r o","title":"Nome do Personagem","draft":"true","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo","facção/justiçarios","modelo"],"cssclasses":"character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo

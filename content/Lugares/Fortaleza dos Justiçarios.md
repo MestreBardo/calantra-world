@@ -2,6 +2,7 @@
 {"publish":true,"title":"Fortaleza dos Justiçarios","draft":"false","created":"2025-06-27","tags":["lugar","tipo/fortaleza","status/ativo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Descrição breve da fortaleza: localização estratégica, função histórica e papel atual no mundo.

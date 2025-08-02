@@ -2,6 +2,7 @@
 {"publish":true,"title":"Guarda de Pedra Tombada","draft":"false","created":"2025-07-08","tags":["facção","tipo/milicia"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Breve descrição da facção: sua missão, influência e reputação no mundo.
 

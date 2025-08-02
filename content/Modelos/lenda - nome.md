@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Lenda","draft":"true","created":"2025-06-27","tags":["lenda","tipo/mistico","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Breve narrativa da lenda e sua importância cultural ou espiritual no mundo.
 

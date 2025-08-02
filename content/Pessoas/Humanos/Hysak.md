@@ -2,6 +2,7 @@
 {"publish":true,"title":"Hysak","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo","facção/justiçarios"],"cssclasses":"character-page"}
 ---
 
+
 ---
 > [!abstract] Resumo
 > Lider e um dos fundadores dos [[Facções/Justiçarios]], paladino da justiça seguidor de [[Deuses e Entidades/Deuses/Kermis]]

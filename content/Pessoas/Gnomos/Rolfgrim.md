@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"O Panfleteiro","title":"Rolfgrim","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/gnomo","status/vivo"],"cssclasses":"character-page"}
+{"publish":true,"aliases":"O P a n f l e t e i r o","title":"Rolfgrim","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/gnomo","status/vivo"],"cssclasses":"character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo

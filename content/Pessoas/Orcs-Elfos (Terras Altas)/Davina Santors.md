@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Giganta","title":"Davina Santors","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/orc","ancestralidade/elfo","status/vivo"],"cssclasses":"character-page"}
+{"publish":true,"aliases":"G i g a n t a","title":"Davina Santors","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/orc","ancestralidade/elfo","status/vivo"],"cssclasses":"character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo

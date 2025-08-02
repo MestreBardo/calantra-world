@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome do Item","draft":"true","created":"2025-06-27","tags":["item","tipo/magico","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Breve descrição do item: sua natureza, origem e importância. Pode incluir aparência, aura mágica ou função lendária.
 

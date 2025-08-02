@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome da Criatura","draft":"true","created":"2025-06-27","tags":["criatura","tipo/animal","origem/natural","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Descrição breve da criatura: aparência geral, comportamento típico, e o que a torna única.
 

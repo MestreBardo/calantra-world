@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome do Continente","draft":"true","created":"2025-06-27","tags":["lugar","tipo/continente","status/explorado","modelo"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] **Resumo**
 > Breve descrição do continente: sua localização no mundo, características geográficas dominantes e importância histórica ou mágica.

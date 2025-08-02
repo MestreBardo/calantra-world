@@ -2,6 +2,7 @@
 {"publish":true,"title":"Nome do Animal - simplificado","draft":"true","created":"2025-06-27","tags":["criatura","origem/natural","modelo","tipo/fauna"],"cssclasses":""}
 ---
 
+
 ---
 > [!abstract] Animal típico da fauna regional. Descrição rápida do que é, onde vive, e sua função ecológica.
 

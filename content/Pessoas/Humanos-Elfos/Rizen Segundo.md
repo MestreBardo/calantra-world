@@ -2,6 +2,7 @@
 {"publish":true,"title":"Rizen Segundo","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/elfo","ancestralidade/humano","status/vivo","facção/circulo_da_lua_crescente"],"cssclasses":"character-page"}
 ---
 
+
 ---
 > [!abstract] Resumo
 > Breve descrição do personagem em 1-2 frases que capture sua essência e papel na história.

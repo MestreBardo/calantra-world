@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Lindri","title":"Aelindra","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/elfo","ancestralidade/humano","status/vivo"],"cssclasses":"character-page"}
+{"publish":true,"aliases":"L i n d r i","title":"Aelindra","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/elfo","ancestralidade/humano","status/vivo"],"cssclasses":"character-page"}
 ---
+
 
 ---
 > [!abstract] Resumo

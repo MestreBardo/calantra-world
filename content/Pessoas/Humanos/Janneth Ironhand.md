@@ -2,6 +2,7 @@
 {"publish":true,"title":"Janneth Ironhand","draft":"false","created":"2025-06-26","tags":["pessoa","ancestralidade/humano","status/vivo"],"cssclasses":"character-page"}
 ---
 
+
 Na imagem adicione uma capa, pinte a parte de preto na cor vermelha---
 > [!abstract] Resumo
 
